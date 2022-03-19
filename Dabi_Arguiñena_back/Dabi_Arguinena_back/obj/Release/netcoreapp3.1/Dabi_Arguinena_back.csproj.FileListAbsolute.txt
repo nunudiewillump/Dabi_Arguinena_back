@@ -1,0 +1,6 @@
+C:\Users\34605\Desktop\Dabi_Arguiñena_back\daniel_bengoechea_back\obj\Release\netcoreapp3.1\Dabi_Arguinena_back.csprojAssemblyReference.cache
+C:\Users\34605\Desktop\Dabi_Arguiñena_back\daniel_bengoechea_back\obj\Release\netcoreapp3.1\Dabi_Arguinena_back.AssemblyInfoInputs.cache
+C:\Users\34605\Desktop\Dabi_Arguiñena_back\daniel_bengoechea_back\obj\Release\netcoreapp3.1\Dabi_Arguinena_back.AssemblyInfo.cs
+C:\Users\34605\Desktop\Dabi_Arguiñena_back\daniel_bengoechea_back\obj\Release\netcoreapp3.1\Dabi_Arguinena_back.csproj.CoreCompileInputs.cache
+C:\Users\34605\Desktop\Dabi_Arguiñena_back\daniel_bengoechea_back\obj\Release\netcoreapp3.1\Dabi_Arguinena_back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\34605\Desktop\Dabi_Arguiñena_back\daniel_bengoechea_back\obj\Release\netcoreapp3.1\Dabi_Arguinena_back.MvcApplicationPartsAssemblyInfo.cache
